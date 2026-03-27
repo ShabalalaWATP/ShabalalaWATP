@@ -1,1 +1,149 @@
+<div align="center">
 
+# `> alex@kali:~$ whoami`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Professional;MSc+Cyber+Security+%7C+Lancaster+University;Vulnerability+Research+%26+Reverse+Engineering;AI%2FML+Engineer+%7C+Agentic+Systems+Builder;Building+Things+That+Break+Things+%F0%9F%94%93" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShabalalaWATP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShabalalaWATP)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Gloucestershire%2C_UK-0d1117?style=for-the-badge)](https://github.com/ShabalalaWATP)
+[![MSc](https://img.shields.io/badge/MSc-Cyber_Security-b80000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=)](https://www.lancaster.ac.uk/)
+
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShabalalaWATP&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="420"/>
+
+### `$ cat about_me.txt`
+
+```yaml
+name: Alex Orr
+location: Gloucestershire, UK
+role: Cyber Security Professional
+education:
+  current: MSc Cyber Security — Lancaster University
+background:
+  - 10+ years in technical roles across the public sector
+  - Passionate about security research & building tools
+  - Led engineering teams solving hard problems
+  - Competed in ML hackathons, broke things, fixed things
+interests:
+  - Cyber | AI | Software | Geopolitics
+```
+
+<br clear="right"/>
+
+---
+
+### `$ cat /etc/interests.conf`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Cyber & Security
+- Vulnerability Research & Reverse Engineering
+- Application Security & OWASP
+- OSINT & Intelligence Analysis
+- Offensive Security Tooling
+- Threat Modelling & Attack Trees
+
+</td>
+<td width="50%" valign="top">
+
+#### AI / ML & Software
+- Building agentic harnesses around LLMs
+- Machine Learning model development
+- Natural Language Processing
+- Web scraping & data pipelines
+- Full-stack web development
+
+</td>
+</tr>
+</table>
+
+> *I also keep a close eye on the chessboard of global affairs — geopolitics, conflict dynamics, OSINT, and the intersection of technology and statecraft. If it shapes the threat landscape, I'm reading about it.*
+
+---
+
+### `$ ls ~/toolkit/`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=red)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
+
+---
+
+### `$ find ~/projects -type f -name "*.cool" | head`
+
+<div align="center">
+
+| Project | Description | Stack |
+|:--------|:-----------|:-----:|
+| [**Unweaver**](https://github.com/ShabalalaWATP/Unweaver) | Dark-mode analyst workbench for automated, multi-pass code deobfuscation | `Python` |
+| [**PowerShellAI**](https://github.com/ShabalalaWATP/PowerShellAI) | Natural language to PowerShell — talk to your terminal like a human | `Python` |
+| [**UkraineOSINT**](https://github.com/ShabalalaWATP/UkraineOSINT) | Multi-source OSINT aggregator powered by Google Gemini API | `JavaScript` |
+| [**VRAgent**](https://github.com/ShabalalaWATP/VRAgent) | Agentic AI harness for vulnerability research workflows | `TypeScript` |
+| [**AttackTree**](https://github.com/ShabalalaWATP/AttackTree) | Attack tree modelling & threat visualisation tool | `Python` |
+| [**GARDIAN**](https://github.com/ShabalalaWATP/GARDIAN) | Web-based security dashboard | `JavaScript` |
+| [**ai-assisted-osint-tool**](https://github.com/ShabalalaWATP/ai-assisted-osint-tool) | AI-enhanced OSINT collection & analysis platform | `HTML` `JS` |
+| [**SafePassage**](https://github.com/ShabalalaWATP/SafePassage) | Secure authentication & access management | `VTL` |
+
+</div>
+
+---
+
+### `$ uptime --career`
+
+```
+ 10+ years solving problems in the public sector
+ ├── Led technical teams of up to 20 people
+ ├── Built tooling, broke software, wrote reports nobody read
+ ├── 2nd place — AWS DeepRacer ML Hackathon (out of 50 teams)
+ └── Currently: MSc Cyber Security @ Lancaster University (2026-27)
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShabalalaWATP&theme=radical&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabalalaWATP&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" width="360"/>
+
+<br/><br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShabalalaWATP&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShabalalaWATP&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+```
+"The quieter you become, the more you are able to hear."
+```
+
+</div>
