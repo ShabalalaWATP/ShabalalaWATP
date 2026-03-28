@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> alex@kali:~$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003300,100:00FF41&height=300&section=header&text=alex@kali:~$%20whoami&fontSize=40&fontColor=00FF41&fontAlignY=45&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=65" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Professional;MSc+Cyber+Security+%7C+Lancaster+University;Vulnerability+Research+%26+Reverse+Engineering;AI%2FML+Engineer+%7C+Agentic+Systems+Builder;Building+Things+That+Break+Things+%F0%9F%94%93" alt="Typing SVG" />
 
@@ -34,6 +34,37 @@ interests:
 ```
 
 <br clear="right"/>
+
+---
+
+### `$ cat /proc/currently_working_on`
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MSc-Cyber_Security-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<sub><b>Lancaster University</b></sub><br/>
+<sub>2026 — 2027</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Building-Unweaver-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<sub><b>Code Deobfuscation</b></sub><br/>
+<sub>Multi-pass analysis workbench</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Learning-React_&_Web_Dev-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<sub><b>Full-Stack Development</b></sub><br/>
+<sub>JS / TS / React / Node</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Exploring-Agentic_AI-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<sub><b>LLM Harnesses & ML</b></sub><br/>
+<sub>n8n / Codex / Custom Agents</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -130,14 +161,29 @@ interests:
 
 <div align="center">
 
+### `$ cat /var/log/contributions.log`
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ShabalalaWATP/ShabalalaWATP/output/snake-dark.svg" alt="Snake animation" width="100%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Map" width="100%"/>
+</picture>
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ShabalalaWATP&theme=radical&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" width="420"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabalalaWATP&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" width="360"/>
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShabalalaWATP&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=ShabalalaWATP&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShabalalaWATP&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -146,5 +192,7 @@ interests:
 ```
 "The quieter you become, the more you are able to hear."
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=120&section=footer" width="100%"/>
 
 </div>
