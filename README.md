@@ -126,18 +126,17 @@ interests:
 
 ### `$ find ~/projects -type f -name "*.cool" | head`
 
-<div align="center">
-
-<a href="https://github.com/ShabalalaWATP/Unweaver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=Unweaver&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/VRAgent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=VRAgent&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/PowerShellAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=PowerShellAI&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/UkraineOSINT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=UkraineOSINT&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/AttackTree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=AttackTree&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/GARDIAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=GARDIAN&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/ai-assisted-osint-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=ai-assisted-osint-tool&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-<a href="https://github.com/ShabalalaWATP/SafePassage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=SafePassage&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
-
-</div>
+```
+ ~/projects
+ ├── Unweaver ──────────── Multi-pass code deobfuscation workbench          [Python]
+ ├── VRAgent ───────────── AI-assisted vulnerability research & exploit dev [React / Python]
+ ├── PowerShellAI ──────── Natural language to PowerShell commands           [Python]
+ ├── UkraineOSINT ──────── OSINT aggregator powered by Google Gemini API    [JavaScript]
+ ├── AttackTree ────────── Attack tree modelling & threat visualisation      [Python]
+ ├── GARDIAN ───────────── Web-based security dashboard                     [JavaScript]
+ ├── ai-assisted-osint ─── AI-enhanced OSINT collection & analysis          [HTML / JS]
+ └── SafePassage ──────── Secure authentication & access management        [Java]
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
