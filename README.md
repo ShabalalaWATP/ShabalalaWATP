@@ -93,6 +93,22 @@ interests:
 
 > *I also keep a close eye on the chessboard of global affairs — geopolitics, conflict dynamics, OSINT, and the intersection of technology and statecraft. If it shapes the threat landscape, I'm reading about it.*
 
+<div align="center">
+
+#### `$ tail -f /var/log/radar.log`
+
+```
+ MONITORING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ▸ Conflict zones & force posture shifts
+ ▸ Emerging CVEs & nation-state APT campaigns
+ ▸ AI governance, regulation & frontier model developments
+ ▸ SIGINT, OSINT & open-source intelligence tradecraft
+ ▸ Geopolitical risk & its impact on the cyber domain
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ ls ~/toolkit/`
@@ -161,6 +177,13 @@ interests:
 
 <br/>
 
+![Repos](https://img.shields.io/badge/Public_Repos-23-00FF41?style=flat-square&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Primary-Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=3776AB)
+![Status](https://img.shields.io/badge/Status-Building_Things-00FF41?style=flat-square&labelColor=0d1117)
+![Coffee](https://img.shields.io/badge/Fuel-Coffee_☕-6F4E37?style=flat-square&labelColor=0d1117)
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/ShabalalaWATP/ShabalalaWATP/output/snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <br/><br/>
@@ -189,9 +212,7 @@ interests:
 
 <br/><br/>
 
-```
-"The quieter you become, the more you are able to hear."
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=3000&color=00FF41&center=true&vCenter=true&random=true&width=600&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22+%E2%80%94+Kali+Linux;%22There+are+only+two+types+of+companies%3A+those+that+have+been+hacked+and+those+that+will+be.%22+%E2%80%94+Robert+Mueller;%22In+God+we+trust.+All+others+we+monitor.%22+%E2%80%94+NSA;%22Hardware+is+easy+to+protect%3A+lock+it+in+a+room.+Information+however+gets+around.%22+%E2%80%94+Adi+Shamir;%22The+best+way+to+predict+the+future+is+to+invent+it.%22+%E2%80%94+Alan+Kay;%22A+ship+in+port+is+safe%2C+but+that%27s+not+what+ships+are+built+for.%22+%E2%80%94+Grace+Hopper;%22Amateurs+hack+systems%2C+professionals+hack+people.%22+%E2%80%94+Bruce+Schneier;%22If+you+think+technology+can+solve+your+security+problems%2C+then+you+don%27t+understand+the+problems.%22+%E2%80%94+Bruce+Schneier" alt="Rotating quotes" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=120&section=footer" width="100%"/>
 
