@@ -35,14 +35,32 @@ interests:
 
 ### `$ cat /proc/currently_working_on`
 
-```js
-const focus = [
-  { project: "MSc Cyber Security",  where: "Lancaster University",        module: "Risk Management & Intelligence" },
-  { project: "Unweaver",            what:  "Agentic code deobfuscation",  stack:  "Python · LLM Orchestration"      },
-  { project: "VRAgent",             what:  "AI-assisted vuln research",   stack:  "React · Python · GenAI"          },
-  { project: "Agentic AI",          what:  "LLM harnesses & custom agents", stack: "n8n · Codex · Claude"           },
-];
-```
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<h4>🎓 MSc Cyber Security</h4>
+<sub>Lancaster University</sub><br/>
+<sub><b>Risk Management & Intelligence</b></sub>
+</td>
+<td align="center" width="25%">
+<h4>🔓 Unweaver</h4>
+<sub>Agentic code deobfuscation</sub><br/>
+<sub><b>Python · LLM Orchestration</b></sub>
+</td>
+<td align="center" width="25%">
+<h4>🛡️ VRAgent</h4>
+<sub>AI-assisted vuln research</sub><br/>
+<sub><b>React · Python · GenAI</b></sub>
+</td>
+<td align="center" width="25%">
+<h4>🤖 Agentic AI</h4>
+<sub>LLM harnesses & custom agents</sub><br/>
+<sub><b>n8n · Codex · Claude</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
