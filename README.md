@@ -180,10 +180,6 @@ interests:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabalalaWATP&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" width="360"/>
-
-<br/><br/>
-
 
 <img src="https://komarev.com/ghpvc/?username=ShabalalaWATP&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
