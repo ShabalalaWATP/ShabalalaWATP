@@ -176,6 +176,18 @@ interests:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h4><a href="https://github.com/ShabalalaWATP/ukraine-conflict-tracker">🛰️ ukraine-conflict-tracker</a></h4>
+<p><sub>Real-time conflict monitor using NASA FIRMS satellite fire data & news correlation</sub></p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/API-009688?style=flat-square" />
+</td>
+<td width="50%">
+<h4><a href="https://github.com/ShabalalaWATP/NLP">🧠 NLP</a></h4>
+<p><sub>BBC News scraper with spaCy named entity recognition — people, places & organisations</sub></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-5A9BD5?style=flat-square" /> <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</td>
+</tr>
 </table>
 </div>
 
