@@ -186,6 +186,10 @@ interests:
 ```
  10+ years solving problems in the public sector
  ├── Led technical teams of up to 20 people
+ ├── Deployed on operations across Europe & the Middle East
+ ├── Drove early adoption of AI tooling into analyst workflows
+ ├── Built cross-department training programmes from scratch
+ ├── Researched adversarial ML threats to national-level capabilities
  ├── Built tooling, broke software, wrote reports nobody read
  ├── 2nd place — AWS DeepRacer ML Hackathon (out of 50 teams)
  └── Currently: MSc Cyber Security @ Lancaster University (2026-27)
