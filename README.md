@@ -93,22 +93,6 @@ interests:
 
 > *I also keep a close eye on the chessboard of global affairs — geopolitics, conflict dynamics, OSINT, and the intersection of technology and statecraft. If it shapes the threat landscape, I'm reading about it.*
 
-<div align="center">
-
-#### `$ tail -f /var/log/radar.log`
-
-```
- MONITORING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- ▸ Conflict zones & force posture shifts
- ▸ Emerging CVEs & nation-state APT campaigns
- ▸ AI governance, regulation & frontier model developments
- ▸ SIGINT, OSINT & open-source intelligence tradecraft
- ▸ Geopolitical risk & its impact on the cyber domain
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ ls ~/toolkit/`
@@ -144,16 +128,14 @@ interests:
 
 <div align="center">
 
-| Project | Description | Stack |
-|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--:|
-| [**Unweaver**](https://github.com/ShabalalaWATP/Unweaver) | Dark-mode analyst workbench for automated, multi-pass code deobfuscation | `Python` |
-| [**PowerShellAI**](https://github.com/ShabalalaWATP/PowerShellAI) | Natural language to PowerShell — talk to your terminal like a human | `Python` |
-| [**UkraineOSINT**](https://github.com/ShabalalaWATP/UkraineOSINT) | Multi-source OSINT aggregator powered by Google Gemini API | `JavaScript` |
-| [**VRAgent**](https://github.com/ShabalalaWATP/VRAgent) | Agentic AI harness for vulnerability research workflows | `TypeScript` |
-| [**AttackTree**](https://github.com/ShabalalaWATP/AttackTree) | Attack tree modelling & threat visualisation tool | `Python` |
-| [**GARDIAN**](https://github.com/ShabalalaWATP/GARDIAN) | Web-based security dashboard | `JavaScript` |
-| [**ai-assisted-osint-tool**](https://github.com/ShabalalaWATP/ai-assisted-osint-tool) | AI-enhanced OSINT collection & analysis platform | `HTML` `JS` |
-| [**SafePassage**](https://github.com/ShabalalaWATP/SafePassage) | Secure authentication & access management | `VTL` |
+<a href="https://github.com/ShabalalaWATP/Unweaver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=Unweaver&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/VRAgent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=VRAgent&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/PowerShellAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=PowerShellAI&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/UkraineOSINT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=UkraineOSINT&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/AttackTree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=AttackTree&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/GARDIAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=GARDIAN&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/ai-assisted-osint-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=ai-assisted-osint-tool&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
+<a href="https://github.com/ShabalalaWATP/SafePassage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShabalalaWATP&repo=SafePassage&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9" width="400"/></a>
 
 </div>
 
