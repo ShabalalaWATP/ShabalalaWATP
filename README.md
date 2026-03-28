@@ -111,16 +111,16 @@ interests:
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=azuredevops&logoColor=0078D4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![JADX](https://img.shields.io/badge/JADX-0d1117?style=for-the-badge&logoColor=orange)
-![OpenAI Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-0d1117?style=for-the-badge&logo=android&logoColor=34A853)
+![OpenAI Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=10A37F)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=CC9B7A)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 </div>
 
