@@ -66,28 +66,51 @@ interests:
 
 ### `$ cat /etc/interests.conf`
 
-```yaml
-cyber_security:
-  - Vulnerability Research & Reverse Engineering
-  - Application Security & OWASP
-  - OSINT & Intelligence Analysis
-  - Offensive Security Tooling
-  - Threat Modelling & Attack Trees
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-ai_ml:
-  - Building agentic harnesses around LLMs
-  - Machine Learning model development
-  - Natural Language Processing
-  - Web scraping & data pipelines
-  - Prompt engineering & fine-tuning
+<img src="https://img.shields.io/badge/🔐-Cyber_&_Security-00FF41?style=for-the-badge&labelColor=0d1117" />
 
-watching:
-  - Geopolitics & conflict dynamics
-  - Technology, policy & statecraft
-  - Threat landscape shifts
-  - OSINT tradecraft & methodology
-  - Full-stack web development
-```
+<br/><br/>
+
+Vulnerability Research & RE<br/>
+Application Security & OWASP<br/>
+OSINT & Intelligence Analysis<br/>
+Offensive Security Tooling<br/>
+Threat Modelling & Attack Trees
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🤖-AI_/_ML-00FF41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+Agentic harnesses around LLMs<br/>
+Machine Learning model dev<br/>
+Natural Language Processing<br/>
+Web scraping & data pipelines<br/>
+Prompt engineering & fine-tuning
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🌍-On_The_Radar-00FF41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+Geopolitics & conflict dynamics<br/>
+Technology, policy & statecraft<br/>
+Threat landscape shifts<br/>
+OSINT tradecraft & methodology<br/>
+Full-stack web development
+
+</td>
+</tr>
+</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
