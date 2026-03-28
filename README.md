@@ -35,70 +35,14 @@ interests:
 
 ### `$ cat /proc/currently_working_on`
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🎓_MSc_Cyber_Security-Lancaster_University-b80000?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
+```js
+const focus = [
+  { project: "MSc Cyber Security",  where: "Lancaster University",        module: "Risk Management & Intelligence" },
+  { project: "Unweaver",            what:  "Agentic code deobfuscation",  stack:  "Python · LLM Orchestration"      },
+  { project: "VRAgent",             what:  "AI-assisted vuln research",   stack:  "React · Python · GenAI"          },
+  { project: "Agentic AI",          what:  "LLM harnesses & custom agents", stack: "n8n · Codex · Claude"           },
+];
 ```
- MODULE  Risk Management & Intelligence
- STATUS  ██████████░░░░░░░░░░  In Progress
-```
-
-<img src="https://img.shields.io/badge/Threat_Modelling-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/Risk_Frameworks-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/Intelligence_Analysis-161b22?style=flat-square" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🔓_Building-Unweaver-00FF41?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-```
- TARGET  Agentic code deobfuscation
- STATUS  ████████████████░░░░  35+ transforms
-```
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🛡️_Building-VRAgent-00FF41?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-```
- TARGET  AI-assisted vuln research & exploit dev
- STATUS  ██████████████░░░░░░  14+ scanners
-```
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/🤖_Exploring-Agentic_AI-00FF41?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-```
- TARGET  LLM harnesses & custom agents
- STATUS  ████████░░░░░░░░░░░░  Always learning
-```
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white" />
-
-</td>
-</tr>
-</table>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
