@@ -132,24 +132,24 @@ interests:
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/Unweaver">🔓 Unweaver</a></h4>
 <p><sub>Agentic code deobfuscation workbench with 35+ deterministic transforms & LLM orchestration</sub></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/VRAgent">🛡️ VRAgent</a></h4>
 <p><sub>AI-driven vulnerability scanning & analysis platform integrating 14+ security scanners</sub></p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/AttackTree">🎯 AttackTree</a></h4>
 <p><sub>Threat modelling, attack tree planning & offensive cyber operations visualisation</sub></p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/UkraineOSINT">🌍 UkraineOSINT</a></h4>
 <p><sub>Gemini-powered conflict OSINT aggregator — multi-source intel with structured reporting</sub></p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/NLP-5A9BD5?style=flat-square" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -161,19 +161,19 @@ interests:
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/SafePassage">📱 SafePassage</a></h4>
 <p><sub>iOS field reporting companion app for GARDIAN — real-time hazard & evacuation ops</sub></p>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/PowerShellAI">⚡ PowerShellAI</a></h4>
 <p><sub>Natural language → PowerShell command generation via LLM</sub></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
 <td width="50%">
-<h4><a href="https://github.com/ShabalalaWATP/ai-assisted-osint-tool">🔍 ai-assisted-osint</a></h4>
-<p><sub>NLP-powered OSINT platform with sentiment analysis, NER & interactive visualisations</sub></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<h4><a href="https://github.com/ShabalalaWATP/UK_Police_Tracker">🚔 UK_Police_Tracker</a></h4>
+<p><sub>Interactive UK police data explorer — crime stats, neighbourhood teams & boundary maps</sub></p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -186,10 +186,10 @@ interests:
 ```
  10+ years solving problems in the public sector
  ├── Led technical teams of up to 20 people
- ├── Deployed on operations across Europe & the Middle East
+ ├── Worked across Europe & the Middle East
  ├── Drove early adoption of AI tooling into analyst workflows
  ├── Built cross-department training programmes from scratch
- ├── Researched adversarial ML threats to national-level capabilities
+ ├── Researched adversarial ML threats to operational capabilities
  ├── Built tooling, broke software, wrote reports nobody read
  ├── 2nd place — AWS DeepRacer ML Hackathon (out of 50 teams)
  └── Currently: MSc Cyber Security @ Lancaster University (2026-27)
