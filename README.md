@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShabalalaWATP&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="420"/>
-
 ### `$ cat about_me.txt`
 
 ```yaml
@@ -33,8 +31,6 @@ interests:
   - Cyber | AI | Software | Geopolitics
 ```
 
-<br clear="right"/>
-
 ---
 
 ### `$ cat /proc/currently_working_on`
@@ -43,22 +39,22 @@ interests:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/MSc-Cyber_Security-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/MSc-Cyber_Security-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
 <sub><b>Lancaster University</b></sub><br/>
-<sub>2026 — 2027</sub>
+<sub>Risk Management & Threat Intel</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Building-Unweaver-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Building-Unweaver-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
 <sub><b>Code Deobfuscation</b></sub><br/>
 <sub>Multi-pass analysis workbench</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Learning-React_&_Web_Dev-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Learning-React_%26_Web_Dev-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
 <sub><b>Full-Stack Development</b></sub><br/>
 <sub>JS / TS / React / Node</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Exploring-Agentic_AI-00FF41?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Exploring-Agentic_AI-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
 <sub><b>LLM Harnesses & ML</b></sub><br/>
 <sub>n8n / Codex / Custom Agents</sub>
 </td>
@@ -176,7 +172,11 @@ interests:
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ShabalalaWATP&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="420"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ShabalalaWATP&theme=radical&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" width="420"/>
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShabalalaWATP&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=c9d1d9" width="360"/>
 
 <br/><br/>
