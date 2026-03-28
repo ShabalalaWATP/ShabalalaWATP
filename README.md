@@ -49,9 +49,9 @@ interests:
 <sub>Multi-pass analysis workbench</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Learning-React_%26_Web_Dev-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
-<sub><b>Full-Stack Development</b></sub><br/>
-<sub>JS / TS / React / Node</sub>
+<img src="https://img.shields.io/badge/Building-VRAgent-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
+<sub><b>AI-Assisted Vuln Research</b></sub><br/>
+<sub>React / Python / Exploit Dev</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Exploring-Agentic_AI-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
@@ -186,9 +186,6 @@ interests:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShabalalaWATP&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Trophies" width="100%"/>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShabalalaWATP&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
