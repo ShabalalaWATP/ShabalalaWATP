@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003300,100:00FF41&height=300&section=header&text=alex@kali:~$%20whoami&fontSize=40&fontColor=00FF41&fontAlignY=45&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=200&section=header&text=alex@kali:~$%20whoami&fontSize=40&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Cyber+Security+Professional;MSc+Cyber+Security+%7C+Lancaster+University;Vulnerability+Research+%26+Reverse+Engineering;AI%2FML+Engineer+%7C+Agentic+Systems+Builder;Building+Things+That+Break+Things+%F0%9F%94%93" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 ### `$ cat about_me.txt`
 
 ```yaml
-name: Alex Orr
+name: Alex O
 location: Gloucestershire, UK
 role: Cyber Security Professional
 education:
@@ -128,14 +128,14 @@ interests:
 
 ```
  ~/projects
- ├── Unweaver ──────────── Multi-pass code deobfuscation workbench          [Python]
- ├── VRAgent ───────────── AI-assisted vulnerability research & exploit dev [React / Python]
- ├── PowerShellAI ──────── Natural language to PowerShell commands           [Python]
- ├── UkraineOSINT ──────── OSINT aggregator powered by Google Gemini API    [JavaScript]
- ├── AttackTree ────────── Attack tree modelling & threat visualisation      [Python]
- ├── GARDIAN ───────────── Web-based security dashboard                     [JavaScript]
- ├── ai-assisted-osint ─── AI-enhanced OSINT collection & analysis          [HTML / JS]
- └── SafePassage ──────── Secure authentication & access management        [Java]
+ ├── Unweaver ──────────── Agentic deobfuscation workbench · 35+ transforms   [Python]
+ ├── VRAgent ───────────── AI-driven vuln scanning & analysis · 14+ scanners  [TS / Python]
+ ├── PowerShellAI ──────── Natural language → PowerShell via LLM              [Python]
+ ├── UkraineOSINT ──────── Gemini-powered conflict OSINT aggregator           [JS / React]
+ ├── AttackTree ────────── Offensive cyber planner & attack tree builder       [TS / Python]
+ ├── GARDIAN ───────────── NEO & disaster relief coordination dashboard        [JS / React]
+ ├── ai-assisted-osint ─── NLP-powered OSINT · sentiment & entity extraction  [Python]
+ └── SafePassage ──────── iOS field reporting for GARDIAN (companion app)     [Swift]
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
