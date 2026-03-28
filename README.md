@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ cat about_me.txt`
 
@@ -31,7 +31,7 @@ interests:
   - Cyber | AI | Software | Geopolitics
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ cat /proc/currently_working_on`
 
@@ -41,7 +41,7 @@ interests:
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/MSc-Cyber_Security-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
 <sub><b>Lancaster University</b></sub><br/>
-<sub>Risk Management & Threat Intel</sub>
+<sub>Risk Management & Threat Intelligence</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Building-Unweaver-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
@@ -62,7 +62,7 @@ interests:
 </table>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ cat /etc/interests.conf`
 
@@ -93,7 +93,7 @@ interests:
 
 > *I also keep a close eye on the chessboard of global affairs — geopolitics, conflict dynamics, OSINT, and the intersection of technology and statecraft. If it shapes the threat landscape, I'm reading about it.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ ls ~/toolkit/`
 
@@ -122,14 +122,14 @@ interests:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ find ~/projects -type f -name "*.cool" | head`
 
 <div align="center">
 
 | Project | Description | Stack |
-|:--------|:-----------|:-----:|
+|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--|:<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>--:|
 | [**Unweaver**](https://github.com/ShabalalaWATP/Unweaver) | Dark-mode analyst workbench for automated, multi-pass code deobfuscation | `Python` |
 | [**PowerShellAI**](https://github.com/ShabalalaWATP/PowerShellAI) | Natural language to PowerShell — talk to your terminal like a human | `Python` |
 | [**UkraineOSINT**](https://github.com/ShabalalaWATP/UkraineOSINT) | Multi-source OSINT aggregator powered by Google Gemini API | `JavaScript` |
@@ -141,7 +141,7 @@ interests:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 ### `$ uptime --career`
 
@@ -153,7 +153,7 @@ interests:
  └── Currently: MSc Cyber Security @ Lancaster University (2026-27)
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
 <div align="center">
 
