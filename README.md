@@ -165,18 +165,6 @@ interests:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ShabalalaWATP/ShabalalaWATP/output/snake-dark.svg" alt="Snake animation" width="100%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Map" width="100%"/>
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShabalalaWATP&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="420"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ShabalalaWATP&theme=radical&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" width="420"/>
 
 <br/><br/>
