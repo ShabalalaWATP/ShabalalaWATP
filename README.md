@@ -66,36 +66,28 @@ interests:
 
 ### `$ cat /etc/interests.conf`
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<h4>🔐 Cyber & Security</h4>
-<sub>Vulnerability Research & RE</sub><br/>
-<sub>Application Security & OWASP</sub><br/>
-<sub>OSINT & Intelligence Analysis</sub><br/>
-<sub>Offensive Security Tooling</sub><br/>
-<sub>Threat Modelling & Attack Trees</sub>
-</td>
-<td align="center" width="33%">
-<h4>🤖 AI / ML</h4>
-<sub>Agentic harnesses around LLMs</sub><br/>
-<sub>Machine Learning model development</sub><br/>
-<sub>Natural Language Processing</sub><br/>
-<sub>Web scraping & data pipelines</sub><br/>
-<sub>Prompt engineering & fine-tuning</sub>
-</td>
-<td align="center" width="33%">
-<h4>🌍 Current Affairs</h4>
-<sub>Geopolitics & conflict dynamics</sub><br/>
-<sub>Technology & statecraft</sub><br/>
-<sub>Threat landscape monitoring</sub><br/>
-<sub>OSINT tradecraft</sub><br/>
-<sub>Full-stack web development</sub>
-</td>
-</tr>
-</table>
-</div>
+```yaml
+cyber_security:
+  - Vulnerability Research & Reverse Engineering
+  - Application Security & OWASP
+  - OSINT & Intelligence Analysis
+  - Offensive Security Tooling
+  - Threat Modelling & Attack Trees
+
+ai_ml:
+  - Building agentic harnesses around LLMs
+  - Machine Learning model development
+  - Natural Language Processing
+  - Web scraping & data pipelines
+  - Prompt engineering & fine-tuning
+
+watching:
+  - Geopolitics & conflict dynamics
+  - Technology, policy & statecraft
+  - Threat landscape shifts
+  - OSINT tradecraft & methodology
+  - Full-stack web development
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00FF41&height=80&section=header&reversal=true" width="100%"/>
 
