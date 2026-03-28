@@ -119,6 +119,8 @@ interests:
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![JADX](https://img.shields.io/badge/JADX-0d1117?style=for-the-badge&logoColor=orange)
 ![OpenAI Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=CC9B7A)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </div>
 
