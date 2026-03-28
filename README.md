@@ -38,25 +38,63 @@ interests:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MSc-Cyber_Security-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
-<sub><b>Lancaster University</b></sub><br/>
-<sub>Risk Management & Threat Intelligence</sub>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓_MSc_Cyber_Security-Lancaster_University-b80000?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+```
+ MODULE  Risk Management & Intelligence
+ STATUS  ██████████░░░░░░░░░░  In Progress
+```
+
+<img src="https://img.shields.io/badge/Threat_Modelling-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/Risk_Frameworks-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/Intelligence_Analysis-161b22?style=flat-square" />
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Building-Unweaver-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
-<sub><b>Code Deobfuscation</b></sub><br/>
-<sub>Multi-pass analysis workbench</sub>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🔓_Building-Unweaver-00FF41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+```
+ TARGET  Agentic code deobfuscation
+ STATUS  ████████████████░░░░  35+ transforms
+```
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Building-VRAgent-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
-<sub><b>AI-Assisted Vuln Research</b></sub><br/>
-<sub>React / Python / Exploit Dev</sub>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🛡️_Building-VRAgent-00FF41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+```
+ TARGET  AI-assisted vuln research & exploit dev
+ STATUS  ██████████████░░░░░░  14+ scanners
+```
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Exploring-Agentic_AI-c9d1d9?style=flat-square&labelColor=161b22" /><br/>
-<sub><b>LLM Harnesses & ML</b></sub><br/>
-<sub>n8n / Codex / Custom Agents</sub>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🤖_Exploring-Agentic_AI-00FF41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+```
+ TARGET  LLM harnesses & custom agents
+ STATUS  ████████░░░░░░░░░░░░  Always learning
+```
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white" />
+
 </td>
 </tr>
 </table>
