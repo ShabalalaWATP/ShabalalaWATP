@@ -71,7 +71,7 @@ interests:
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🔐-Cyber_&_Security-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔐-Cyber_&_Security-c9d1d9?style=for-the-badge&labelColor=161b22" />
 
 <br/><br/>
 
@@ -84,7 +84,7 @@ Threat Modelling & Attack Trees
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🤖-AI_/_ML-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🤖-AI_/_ML-c9d1d9?style=for-the-badge&labelColor=161b22" />
 
 <br/><br/>
 
@@ -97,7 +97,7 @@ Prompt engineering & fine-tuning
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🌍-On_The_Radar-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌍-On_The_Radar-c9d1d9?style=for-the-badge&labelColor=161b22" />
 
 <br/><br/>
 
