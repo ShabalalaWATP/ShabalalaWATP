@@ -156,7 +156,7 @@ interests:
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/GARDIAN">📡 GARDIAN</a></h4>
 <p><sub>NEO & disaster relief coordination dashboard with hazard overlays & curated intelligence</sub></p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/API-009688?style=flat-square" />
 </td>
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/SafePassage">📱 SafePassage</a></h4>
@@ -173,7 +173,7 @@ interests:
 <td width="50%">
 <h4><a href="https://github.com/ShabalalaWATP/UK_Police_Tracker">🚔 UK_Police_Tracker</a></h4>
 <p><sub>Interactive UK police data explorer — crime stats, neighbourhood teams & boundary maps</sub></p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/API-009688?style=flat-square" />
 </td>
 </tr>
 <tr>
